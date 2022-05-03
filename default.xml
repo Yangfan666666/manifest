@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="github"
+          fetch="https://github.com"/>
+  <default remote="github" revision="main" sync-j="4"/>
+    <project path="358-2"   name="Yangfan666666/358-2"  />
+    <project path="458"   name="Yangfan666666/458"  />
+	
+</manifest>
